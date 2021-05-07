@@ -1,1 +1,1 @@
-module.exports = require('./token-metadata.json')
+module.exports = require('./token-metadata.json') 
